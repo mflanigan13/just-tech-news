@@ -13,7 +13,7 @@ Just Tech News is a tech news website where users can post, upvote, and comment 
 Checkout out the application on [Heroku](x)
 
 ## Contributing
-Contributors should read the installation section.
+There were no contributors on this application. This was build for my coding bootcamp.
 
 ## Questions
 If you have any questions about this projects, please contact me directly at mflanigantwualumn@gmail.com. You can view more of my projects at https://github.com/mflanigan13.
